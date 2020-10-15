@@ -1,1 +1,1 @@
-echo "helloworld"
+echo "code update" > /tmp/report
