@@ -1,1 +1,1 @@
-echo "code update2" > /home/ansible/report_2
+echo "code update2" > /tmp/report_2
